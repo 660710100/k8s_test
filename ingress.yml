@@ -25,3 +25,4 @@ spec:
                 name: client-service
                 port:
                   number: 80
+# config localhost in system32
